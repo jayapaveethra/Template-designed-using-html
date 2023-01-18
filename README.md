@@ -1,7 +1,9 @@
 # Template-designed-using-html
 <html>
 <body>
-<p><h3>Designed using only Html</h3><br>
+<p><h3>Designed using only Html</h3>
+  <p>The template is designed with table element to understand html working</p>
+  <br>
   <ul><li>navbar</li>
     <li>call out bar</li>
     <li>image insertion</li>
